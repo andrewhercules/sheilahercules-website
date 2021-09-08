@@ -1,0 +1,10 @@
+# General settings
+
+baseurl: ""
+url: ""
+permalink: pretty
+
+# Build Settings
+
+markdown: kramdown
+highlighter: rouge
