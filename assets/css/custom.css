@@ -1,0 +1,43 @@
+body {
+  background-image: none;
+  background-color: #fff;
+}
+
+.text-faded,
+.text-primary {
+  color: #000430;
+}
+
+#mainNav,
+.footer {
+  background-color: #6694ac;
+}
+
+.bg-faded,
+.cta {
+  background-color: #D0D8DC;
+}
+
+
+.btn-primary,
+.btn-primary:hover {
+  background-color: #6694ac;
+  border-color: #6694ac;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  text-decoration: underline;
+}
+
+:root {
+  --bs-body-color: #000430;
+}
+
+.site-heading-upper {
+  color: #000430;
+}
+
+.site-heading-lower {
+  color: #275771;
+}
