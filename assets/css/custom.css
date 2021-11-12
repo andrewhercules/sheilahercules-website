@@ -34,7 +34,8 @@ body {
   --bs-body-color: #000430;
 }
 
-.site-heading-upper {
+.site-heading-upper,
+.contact-link {
   color: #000430;
 }
 
